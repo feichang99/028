@@ -13,7 +13,7 @@ jsproxy_config({
   // 节点配置
   node_map: {
     'demo-hk': {
-      label: 'feichang99.029点',
+      label: 'feichang99.029挂点',
       lines: {
         'feichang99.029.workers.dev': 1,
         'crimson-snow-3307.029sina.workers.dev': 2,
