@@ -17,13 +17,13 @@ jsproxy_config({
       lines: {
         'feichang99.029.workers.dev': 1,
         'crimson-snow-3307.029sina.workers.dev': 2,
-      }
+      },
    },
     'demo-sg': {
       label: '1-639-节点',
       lines: {
         '1.693.workers.dev': 1,
-      }
+      },
     },
      'cfworker': {
       label: '2.yd029',
