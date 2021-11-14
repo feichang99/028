@@ -13,9 +13,9 @@ jsproxy_config({
   // 节点配置
   node_map: {
     'demo-hk': {
-      label: 'yy-2点',
+      label: 'feichang99.029点',
       lines: {
-        'j.xj2.workers.dev': 1,
+        'feichang99.029.workers.dev': 1,
         'crimson-snow-3307.029sina.workers.dev': 2,
       }
    },
@@ -26,7 +26,7 @@ jsproxy_config({
       }
     },
      'cfworker': {
-      label: 'jz',
+      label: '2.yd029',
       lines: {
         '2.yd029.workers.dev': 1,
       }
