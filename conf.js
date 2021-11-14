@@ -20,15 +20,15 @@ jsproxy_config({
       },
    },
     'demo-sg': {
-      label: '1-639-节点',
+      label: 'yahoo-sy-126节点',
       lines: {
-        '1.693.workers.dev': 1,
+        'yahoo-sy-126.jz126.workers.dev': 1,
       },
     },
      'cfworker': {
-      label: '2.yd029',
+      label: 'yahoo-搜索-126节点',
       lines: {
-        '2.yd029.workers.dev': 1,
+        'yahoo-126.jz126.workers.dev': 1,
       }
     }
   },
